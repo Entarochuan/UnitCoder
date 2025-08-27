@@ -67,7 +67,7 @@ UnitCoder is a novel framework for scalable iterative code synthesis that levera
 ## Requirements
 
 
-**Install BigCodeBench dependencies**
+**Install Sandbox Execution dependencies**
 
 ```bash
 pip install -r requirements-eval.txt
