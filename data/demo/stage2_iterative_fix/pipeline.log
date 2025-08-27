@@ -1,0 +1,147 @@
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing batch of 16 items
+
+Processing items:   0%|          | 0/16 [00:00<?, ?it/s]2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item ef00f77b-4456-387f-b9d5-23c46476a811_0
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item 96008757-d6c7-3259-8bf8-354fa1291893_0
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_1
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_2
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_3
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_4
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_5
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_6
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item fae1edc5-6774-353f-b90b-fe4320ffeeb3_0
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item fae1edc5-6774-353f-b90b-fe4320ffeeb3_1
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item fae1edc5-6774-353f-b90b-fe4320ffeeb3_2
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item fae1edc5-6774-353f-b90b-fe4320ffeeb3_4
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item fae1edc5-6774-353f-b90b-fe4320ffeeb3_5
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_0
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_1
+2025-08-27 14:30:56 | INFO | CodeTestingPipeline | Processing item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_3
+2025-08-27 14:31:10 | INFO | CodeTestingPipeline | Starting polish for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_1
+2025-08-27 14:31:11 | INFO | CodeTestingPipeline | Starting debug round 1 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_2
+2025-08-27 14:31:15 | INFO | CodeTestingPipeline | Found passing solution in round 1
+2025-08-27 14:31:15 | INFO | CodeTestingPipeline | Starting polish for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_2
+2025-08-27 14:31:19 | INFO | CodeTestingPipeline | Starting polish for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_1
+2025-08-27 14:31:19 | INFO | CodeTestingPipeline | Starting debug round 1 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_5
+2025-08-27 14:31:20 | INFO | CodeTestingPipeline | Starting debug round 1 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_5
+2025-08-27 14:31:24 | INFO | CodeTestingPipeline | Starting debug round 1 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_0
+2025-08-27 14:31:24 | INFO | CodeTestingPipeline | Starting polish for item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_0
+2025-08-27 14:31:25 | INFO | CodeTestingPipeline | Starting polish for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_4
+2025-08-27 14:31:25 | INFO | CodeTestingPipeline | Starting debug round 2 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_5
+2025-08-27 14:31:25 | INFO | CodeTestingPipeline | Starting debug round 1 for item ef00f77b-4456-387f-b9d5-23c46476a811_0
+2025-08-27 14:31:26 | INFO | CodeTestingPipeline | Starting debug round 1 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_4
+2025-08-27 14:31:26 | INFO | CodeTestingPipeline | Starting debug round 1 for item 96008757-d6c7-3259-8bf8-354fa1291893_0
+2025-08-27 14:31:27 | INFO | CodeTestingPipeline | Starting debug round 1 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_3
+2025-08-27 14:31:31 | INFO | CodeTestingPipeline | Starting debug round 3 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_5
+2025-08-27 14:31:34 | INFO | CodeTestingPipeline | Starting debug round 1 for item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_3
+2025-08-27 14:31:34 | INFO | CodeTestingPipeline | Starting debug round 2 for item ef00f77b-4456-387f-b9d5-23c46476a811_0
+2025-08-27 14:31:37 | INFO | CodeTestingPipeline | Found passing solution in round 1
+2025-08-27 14:31:37 | INFO | CodeTestingPipeline | Starting polish for item 96008757-d6c7-3259-8bf8-354fa1291893_0
+2025-08-27 14:31:42 | INFO | CodeTestingPipeline | Polished code passed tests for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_1
+2025-08-27 14:31:43 | INFO | CodeTestingPipeline | Starting debug round 1 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_6
+2025-08-27 14:31:48 | INFO | CodeTestingPipeline | Starting debug round 2 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_3
+2025-08-27 14:31:51 | INFO | CodeTestingPipeline | Polished code passed tests for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_2
+2025-08-27 14:31:56 | INFO | CodeTestingPipeline | Polished code passed tests for item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_0
+2025-08-27 14:31:58 | ERROR | CodeTestingPipeline | Error generating unittest for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_2: No valid test code generated
+2025-08-27 14:31:58 | ERROR | CodeTestingPipeline | Error processing item e5bbbacc-eb58-3e88-964b-1a82b05055a6_2: No valid test code generated
+Traceback (most recent call last):
+  File "./UnitCoder/UnitCoder_pipeline.py", line 245, in process_item
+    test_result = await self.generate_unittest(item)
+  File "./UnitCoder/UnitCoder_pipeline.py", line 113, in generate_unittest
+    raise ValueError("No valid test code generated")
+ValueError: No valid test code generated
+
+2025-08-27 14:31:58 | ERROR | CodeTestingPipeline | Error generating unittest for item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_1: No valid test code generated
+2025-08-27 14:31:58 | ERROR | CodeTestingPipeline | Error processing item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_1: No valid test code generated
+Traceback (most recent call last):
+  File "./UnitCoder/UnitCoder_pipeline.py", line 245, in process_item
+    test_result = await self.generate_unittest(item)
+  File "./UnitCoder_pipeline.py", line 113, in generate_unittest
+    raise ValueError("No valid test code generated")
+ValueError: No valid test code generated
+
+2025-08-27 14:31:59 | INFO | CodeTestingPipeline | Polished code passed tests for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_1
+2025-08-27 14:31:59 | INFO | CodeTestingPipeline | Starting debug round 2 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_0
+2025-08-27 14:32:03 | INFO | CodeTestingPipeline | Polished code passed tests for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_4
+2025-08-27 14:32:05 | INFO | CodeTestingPipeline | Starting debug round 3 for item ef00f77b-4456-387f-b9d5-23c46476a811_0
+2025-08-27 14:32:12 | INFO | CodeTestingPipeline | Polished code passed tests for item 96008757-d6c7-3259-8bf8-354fa1291893_0
+2025-08-27 14:32:21 | INFO | CodeTestingPipeline | Found passing solution in round 1
+2025-08-27 14:32:21 | INFO | CodeTestingPipeline | Starting polish for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_5
+2025-08-27 14:32:28 | INFO | CodeTestingPipeline | Starting debug round 2 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_4
+2025-08-27 14:32:28 | INFO | CodeTestingPipeline | Starting debug round 3 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_3
+2025-08-27 14:32:34 | INFO | CodeTestingPipeline | Starting debug round 3 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_0
+2025-08-27 14:32:34 | INFO | CodeTestingPipeline | Starting debug round 2 for item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_3
+2025-08-27 14:32:43 | INFO | CodeTestingPipeline | Starting debug round 2 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_6
+2025-08-27 14:32:45 | INFO | CodeTestingPipeline | Starting debug round 3 for item 85cdf67b-2ce3-35c3-8a4c-c8835720fa22_3
+2025-08-27 14:32:55 | INFO | CodeTestingPipeline | Polished code passed tests for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_5
+2025-08-27 14:32:55 | INFO | CodeTestingPipeline | Starting debug round 3 for item e5bbbacc-eb58-3e88-964b-1a82b05055a6_6
+2025-08-27 14:33:22 | INFO | CodeTestingPipeline | Starting debug round 3 for item fae1edc5-6774-353f-b90b-fe4320ffeeb3_4
+
+Processing items:   6%|▋         | 1/16 [03:13<48:26, 193.76s/it]
+Processing items: 100%|██████████| 16/16 [03:13<00:00, 12.11s/it]
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing batch of 16 items
+
+Processing items: 100%|██████████| 16/16 [00:00<?, ?it/s]2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 01bc6fdc-df6c-35e9-8cb0-f4c700491b9b_1
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 03868119-6da6-35d0-85dc-bda4e82c0438_1
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item a8630958-4d04-3cb1-b033-04a559b1e1c4_0
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_0
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_1
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_2
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_3
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_4
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_6
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item e16b2e8a-f73b-355c-b8c3-8b4ede805406_7
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 9afc9b8a-69e9-3cd2-a132-e85414de9341_1
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 9afc9b8a-69e9-3cd2-a132-e85414de9341_2
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 9afc9b8a-69e9-3cd2-a132-e85414de9341_3
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 9afc9b8a-69e9-3cd2-a132-e85414de9341_4
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 9afc9b8a-69e9-3cd2-a132-e85414de9341_6
+2025-08-27 14:34:10 | INFO | CodeTestingPipeline | Processing item 4d6767ca-cc6d-3fb6-b2b4-d7b774fe2c04_0
+2025-08-27 14:34:22 | INFO | CodeTestingPipeline | Starting polish for item a8630958-4d04-3cb1-b033-04a559b1e1c4_0
+2025-08-27 14:34:24 | INFO | CodeTestingPipeline | Starting debug round 1 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_3
+2025-08-27 14:34:27 | INFO | CodeTestingPipeline | Starting debug round 1 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_3
+2025-08-27 14:34:27 | INFO | CodeTestingPipeline | Starting debug round 1 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_1
+2025-08-27 14:34:31 | INFO | CodeTestingPipeline | Starting debug round 1 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_4
+2025-08-27 14:34:33 | INFO | CodeTestingPipeline | Starting polish for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_0
+2025-08-27 14:34:33 | INFO | CodeTestingPipeline | Starting debug round 2 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_3
+2025-08-27 14:34:35 | INFO | CodeTestingPipeline | Starting debug round 1 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_2
+2025-08-27 14:34:35 | INFO | CodeTestingPipeline | Starting debug round 1 for item 4d6767ca-cc6d-3fb6-b2b4-d7b774fe2c04_0
+2025-08-27 14:34:37 | INFO | CodeTestingPipeline | Starting debug round 1 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_2
+2025-08-27 14:34:40 | INFO | CodeTestingPipeline | Starting debug round 2 for item 4d6767ca-cc6d-3fb6-b2b4-d7b774fe2c04_0
+2025-08-27 14:34:42 | INFO | CodeTestingPipeline | Starting debug round 1 for item 01bc6fdc-df6c-35e9-8cb0-f4c700491b9b_1
+2025-08-27 14:34:42 | INFO | CodeTestingPipeline | Starting debug round 3 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_3
+2025-08-27 14:34:44 | INFO | CodeTestingPipeline | Starting debug round 3 for item 4d6767ca-cc6d-3fb6-b2b4-d7b774fe2c04_0
+2025-08-27 14:34:46 | INFO | CodeTestingPipeline | Starting debug round 1 for item 03868119-6da6-35d0-85dc-bda4e82c0438_1
+2025-08-27 14:34:49 | INFO | CodeTestingPipeline | Found passing solution in round 1
+2025-08-27 14:34:49 | INFO | CodeTestingPipeline | Starting polish for item 01bc6fdc-df6c-35e9-8cb0-f4c700491b9b_1
+2025-08-27 14:34:49 | INFO | CodeTestingPipeline | Starting debug round 1 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_4
+2025-08-27 14:34:52 | INFO | CodeTestingPipeline | Found passing solution in round 1
+2025-08-27 14:34:52 | INFO | CodeTestingPipeline | Starting polish for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_4
+2025-08-27 14:34:54 | INFO | CodeTestingPipeline | Starting debug round 1 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_1
+2025-08-27 14:34:54 | INFO | CodeTestingPipeline | Starting debug round 1 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_7
+2025-08-27 14:34:55 | INFO | CodeTestingPipeline | Polished code passed tests for item a8630958-4d04-3cb1-b033-04a559b1e1c4_0
+2025-08-27 14:34:58 | INFO | CodeTestingPipeline | Starting debug round 2 for item 03868119-6da6-35d0-85dc-bda4e82c0438_1
+2025-08-27 14:35:00 | INFO | CodeTestingPipeline | Starting debug round 2 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_4
+2025-08-27 14:35:06 | INFO | CodeTestingPipeline | Starting debug round 1 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_6
+2025-08-27 14:35:06 | INFO | CodeTestingPipeline | Starting debug round 3 for item 03868119-6da6-35d0-85dc-bda4e82c0438_1
+2025-08-27 14:35:14 | INFO | CodeTestingPipeline | Starting debug round 3 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_4
+2025-08-27 14:35:14 | INFO | CodeTestingPipeline | Found passing solution in round 1
+2025-08-27 14:35:14 | INFO | CodeTestingPipeline | Starting polish for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_7
+2025-08-27 14:35:19 | INFO | CodeTestingPipeline | Starting debug round 1 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_6
+2025-08-27 14:35:20 | INFO | CodeTestingPipeline | Polished code passed tests for item 01bc6fdc-df6c-35e9-8cb0-f4c700491b9b_1
+2025-08-27 14:35:26 | WARNING | CodeTestingPipeline | Polished code failed tests for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_0, keeping original
+2025-08-27 14:35:27 | INFO | CodeTestingPipeline | Starting debug round 2 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_6
+2025-08-27 14:35:32 | INFO | CodeTestingPipeline | Starting debug round 2 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_1
+2025-08-27 14:35:32 | INFO | CodeTestingPipeline | Polished code passed tests for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_4
+2025-08-27 14:35:39 | INFO | CodeTestingPipeline | Starting debug round 2 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_3
+2025-08-27 14:35:42 | INFO | CodeTestingPipeline | Starting debug round 2 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_1
+2025-08-27 14:35:44 | INFO | CodeTestingPipeline | Starting debug round 3 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_6
+2025-08-27 14:35:51 | INFO | CodeTestingPipeline | Starting debug round 2 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_2
+2025-08-27 14:35:53 | INFO | CodeTestingPipeline | Starting debug round 2 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_2
+2025-08-27 14:35:57 | INFO | CodeTestingPipeline | Starting debug round 3 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_3
+2025-08-27 14:35:59 | WARNING | CodeTestingPipeline | Polished code failed tests for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_7, keeping original
+2025-08-27 14:36:06 | INFO | CodeTestingPipeline | Starting debug round 3 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_2
+2025-08-27 14:36:26 | INFO | CodeTestingPipeline | Starting debug round 2 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_6
+2025-08-27 14:36:35 | INFO | CodeTestingPipeline | Starting debug round 3 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_1
+2025-08-27 14:36:44 | INFO | CodeTestingPipeline | Starting debug round 3 for item e16b2e8a-f73b-355c-b8c3-8b4ede805406_1
+2025-08-27 14:36:50 | INFO | CodeTestingPipeline | Starting debug round 3 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_2
+2025-08-27 14:37:19 | INFO | CodeTestingPipeline | Starting debug round 3 for item 9afc9b8a-69e9-3cd2-a132-e85414de9341_6
