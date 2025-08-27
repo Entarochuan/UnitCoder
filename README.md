@@ -22,42 +22,39 @@ UnitCoder is a novel framework for scalable iterative code synthesis that levera
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#news">News</a>
+      <a href="#1-news">News</a>
     </li>
     <li>
-      <a href="#requirements">Requirements</a>
+      <a href="#2-requirements">Requirements</a>
     </li>
     <li>
-      <a href="#framework">Framework Overview</a>
+      <a href="#3-framework-overview">Framework Overview</a>
     </li>
     <li>
-      <a href="#usage">Usage</a>
+      <a href="#4-usage">Usage</a>
       <ul>
         <li>
-          <a href="#code-filtering">Code Filtering</a>
+          <a href="#41-code-filtering">Code Filtering</a>
         </li>
         <li>
-          <a href="#code-synthesis">Code Synthesis</a>
+          <a href="#42-code-synthesis">Code Synthesis</a>
         </li>
         <li>
-          <a href="#agent-configuration">Agent Configuration</a>
+          <a href="#43-agent-configuration">Agent Configuration</a>
         </li>
         <li>
-          <a href="#code-polishing">Code Polishing</a>
+          <a href="#44-code-polishing">Code Polishing</a>
         </li>
       </ul>
     </li>
     <li>
-      <a href="#demo">Demo</a>
+      <a href="#6-demo">Demo</a>
     </li>
     <li>
-      <a href="#data">Data</a>
+      <a href="#7-citation">Citation</a>
     </li>
     <li>
-      <a href="#citation">Citation</a>
-    </li>
-    <li>
-      <a href="#acknowledgements">Acknowledgements</a>
+      <a href="#8-acknowledgements">Acknowledgements</a>
     </li>
   </ol>
 </details>
@@ -115,7 +112,7 @@ Run the iterative code synthesis pipeline:
 bash run.sh
 ```
 
-### 4.3 Agent Configuration {#agent-configuration}
+### 4.3 Agent Configuration
 
 **Agent Configuration**:
 - **Test Generation Agent**: Generates unit tests.
