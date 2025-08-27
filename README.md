@@ -116,7 +116,6 @@ bash run.sh
 **Agent Configuration**:
 - **Test Generation Agent**: Generates unit tests.
 - **Debug Agent**: Iteratively refines code based on test execution results.
-- ****
 
 ### Code Polishing
 
