@@ -147,7 +147,7 @@ If you find our work useful, please consider citing:
 
 ## 8. Acknowledgements
 
-We are grateful to the open-source community for their contributions to code generation and evaluation research. We would like to thank the following works for their code and methods:
+We are grateful to the open-source community for their contributions to code generation and evaluation research! We would like to thank the following works for their code and methods:
 
 - **[Case2Code](https://github.com/choosewhatulike/case2code)**: For providing the foundation of code synthesis framework and evaluation methodology
 - **[BigCodeBench](https://github.com/bigcode-project/bigcodebench)**: For the comprehensive code evaluation benchmark and unit test execution infrastructure
