@@ -40,6 +40,9 @@ UnitCoder is a novel framework for scalable iterative code synthesis that levera
           <a href="#code-synthesis">Code Synthesis</a>
         </li>
         <li>
+          <a href="#agent-configuration">Agent Configuration</a>
+        </li>
+        <li>
           <a href="#code-polishing">Code Polishing</a>
         </li>
       </ul>
@@ -59,28 +62,27 @@ UnitCoder is a novel framework for scalable iterative code synthesis that levera
   </ol>
 </details>
 
-## News
+## 1. News
 
 - [2025-08-27] We have released the whole pipeline of UnitCoder.
 - [2025-08-21] UnitCoder paper is accepted to EMNLP 2025.
 
-## Requirements
+## 2. Requirements
 
-
-**Install Sandbox Execution dependencies**
+### 2.1 Install Sandbox Execution dependencies
 
 ```bash
 pip install -r requirements-eval.txt
 ```
 
-**Install inference dependencies**
+### 2.2 Install inference dependencies
 
 ```bash
 pip install openai aiofiles
 ```
 
 
-## Framework Overview
+## 3. Framework Overview
 
 UnitCoder consists of four main components:
 
@@ -89,9 +91,9 @@ UnitCoder consists of four main components:
 3. **Iterative Refinement Module**: Multi-agent system for test generation and debugging.
 4. **Code Polishing Module**: Post-processing for enhanced code quality.
 
-## Usage
+## 4. Usage
 
-### Code Filtering
+### 4.1 Code Filtering
 
 Prepare your data by filtering code from pre-training corpora:
 
@@ -105,7 +107,7 @@ bash filter_code.sh
   - `content`: AST-processed functions
   - `import_code`: Required import statements
 
-### Code Synthesis
+### 4.2 Code Synthesis
 
 Run the iterative code synthesis pipeline:
 
@@ -113,25 +115,27 @@ Run the iterative code synthesis pipeline:
 bash run.sh
 ```
 
+### 4.3 Agent Configuration {#agent-configuration}
+
 **Agent Configuration**:
 - **Test Generation Agent**: Generates unit tests.
 - **Debug Agent**: Iteratively refines code based on test execution results.
 
-### Code Polishing
+### 4.4 Code Polishing
 
 Post-process generated code for:
 - Comment addition
 - Function header generation
 - Code style standardization
 
-## Demo
+## 6. Demo
 
 Check the `data/demo` directory for examples of:
 - Filtered code samples
 - Synthesis pipeline outputs
 - Final polished results
 
-## Citation
+## 7. Citation
 
 If you find our work useful, please consider citing:
 
@@ -144,11 +148,10 @@ If you find our work useful, please consider citing:
 }
 ```
 
-## Acknowledgements
+## 8. Acknowledgements
 
-We would like to thank the following works for their code and methods:
+We are grateful to the open-source community for their contributions to code generation and evaluation research. We would like to thank the following works for their code and methods:
 
 - **[Case2Code](https://github.com/choosewhatulike/case2code)**: For providing the foundation of code synthesis framework and evaluation methodology
 - **[BigCodeBench](https://github.com/bigcode-project/bigcodebench)**: For the comprehensive code evaluation benchmark and unit test execution infrastructure
 
-We are grateful to the open-source community for their contributions to code generation and evaluation research.
