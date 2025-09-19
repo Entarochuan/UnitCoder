@@ -16,6 +16,11 @@
 UnitCoder is a novel framework for scalable iterative code synthesis that leverages unit test guidance to generate high-quality, executable code from pre-training corpora. Our approach combines code filtering, unit test execution sandbox, and iterative refinement to produce high-quality post training code dataset.
 
 <br>
+<p align="center">
+<img src="UnitCoder_Add.png" alt="UnitCoder Pipeline">
+</p>
+
+<br>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
